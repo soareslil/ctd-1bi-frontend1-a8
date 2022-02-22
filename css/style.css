@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Shizuru&display=swap");
+
+body {
+  background-color: #1313131f;
+}
+
+h1 {
+  color: steelblue;
+  font-family: "Poppins", sans-serif;
+}
+
+.media-picture {
+  background-image: url("https://www.themoviedb.org/t/p/original/wMFad1v8SwyVvrKXmsIkLhSxCEC.jpg");
+  background-size: cover;
+  height: 400px;
+}
+
+.review-score {
+  color: white;
+  background-color: #e6bd09;
+  padding: 12px;
+}
+
+h2 {
+  color: steelblue;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  color: rgb(37, 83, 209);
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  color: white;
+  background-color: #e6bd09;
+  padding: 10px;
+}
