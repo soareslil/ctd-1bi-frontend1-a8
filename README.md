@@ -1,6 +1,8 @@
 ## BEM VINDX AO MEU REPOSITÓRIO 👩‍💻👩‍💻✨
 
-### __Aula 08 Propriedades CSS__
+## 💻✨ CTD : Primeiro Bimestre 
+## 📃✨ Disciplina: Front End 1  
+## 👩‍💻💻 __Aula 08: Propriedades CSS__
 
 <br>
 
